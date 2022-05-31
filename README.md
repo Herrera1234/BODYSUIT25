@@ -9,7 +9,7 @@
 <a href="#"><img title="WHATSAPP BOTS LK✓™" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NeKosmic"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt_M-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NeKosmic"><img title="Autor" src="https://img.shields.io/badge/Autor-ALEX_1025-orange?style=for-the-badge&logo=github"></a>
 </p>
  
 </details>
